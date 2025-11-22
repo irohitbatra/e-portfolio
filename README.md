@@ -50,3 +50,6 @@ git clone https://github.com/irohitbatra/e-portfolio.git
 cd e-portfolio
 npm install
 npm run dev
+```
+```bash
+Made with ❤️ By Rohit Batra
