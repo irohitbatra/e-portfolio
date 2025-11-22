@@ -1,73 +1,52 @@
-# Welcome to your Lovable project
+# Rohit Batra — Portfolio
 
-## Project info
+A modern and responsive personal portfolio showcasing my work, skills, and experience in **programming, cybersecurity, UI/UX, and web development**.
 
-**URL**: https://lovable.dev/projects/feb364bb-16d9-43a4-9cc2-9c1c4ac61314
+🌍 **Live Website:** https://rohitbatra.info  
+📧 **Contact:** rohitbatra.work@gmail.com  
+🔗 **LinkedIn:** https://www.linkedin.com/in/irohitbatra  
+🐙 **GitHub:** https://github.com/irohitbatra
 
-## How can I edit this code?
+---
 
-There are several ways of editing your application.
+## 🚀 Features
 
-**Use Lovable**
+- Smooth scrolling & responsive UI
+- Modern glass & gradient UI styling
+- Projects & skills section
+- Contact form with EmailJS integration
+- Fully deployed on Vercel with custom domain
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/feb364bb-16d9-43a4-9cc2-9c1c4ac61314) and start prompting.
+---
 
-Changes made via Lovable will be committed automatically to this repo.
+## 📸 Screenshots
 
-**Use your preferred IDE**
+### 🔹 Hero Section
+![Hero Section](./screenshots/hero.png)
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+### 🔹 Skills Section
+![Skills Section](./screenshots/skills.png)
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+### 🔹 Contact Section
+![Contact Section](./screenshots/contact.png)
 
-Follow these steps:
+---
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+## 🛠️ Tech Stack
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+- **React + TypeScript**
+- **Vite**
+- **Tailwind CSS**
+- **ShadCN UI**
+- **EmailJS**
+- **Vercel Deployment**
 
-# Step 3: Install the necessary dependencies.
-npm i
+---
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+## 📦 Installation
+
+```bash
+git clone https://github.com/irohitbatra/e-portfolio.git
+cd e-portfolio
+npm install
 npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/feb364bb-16d9-43a4-9cc2-9c1c4ac61314) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
